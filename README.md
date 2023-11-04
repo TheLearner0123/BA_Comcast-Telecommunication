@@ -7,7 +7,7 @@ Data Dictionary: • Ticket #: Ticket number assigned to each complaint • Cust
 
 TASK:
 
-1. Provide the trend chart for the number of complaints at monthly and daily granularity levels.
+1.Provide the trend chart for the number of complaints at monthly and daily granularity levels.
 
 2.Provide a table with the frequency of complaint types.
 
