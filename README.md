@@ -6,6 +6,7 @@ Comcast is an American global telecommunication company. The firm has been provi
 Data Dictionary: • Ticket #: Ticket number assigned to each complaint • Customer Complaint: Description of complaint • Date: Date of complaint • Time: Time of complaint • Received Via: Mode of communication of the complaint • City: Customer city • State: Customer state • Zipcode: Customer zip • Status: Status of complaint • Filing on behalf of someone
 
 TASK:
+
 1. Provide the trend chart for the number of complaints at monthly and daily granularity levels.
 
 2.Provide a table with the frequency of complaint types.
